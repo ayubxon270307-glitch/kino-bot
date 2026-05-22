@@ -1,0 +1,7 @@
+python-telegram-bot==20.7
+yt-dlp
+requests
+beautifulsoup4
+lxml
+PyJWT==2.8.0
+cryptography==42.0.5
